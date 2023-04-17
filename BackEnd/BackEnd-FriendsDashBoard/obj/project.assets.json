@@ -465,11 +465,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\OneDrive\\Desktop\\FriendsDashboard\\BackEnd\\BackEnd-FriendsDashBoard\\BackEnd-FriendsDashBoard.csproj",
+      "projectUniqueName": "C:\\Users\\HP\\OneDrive\\Desktop\\NowExtras\\FriendsDashboard\\BackEnd\\BackEnd-FriendsDashBoard\\BackEnd-FriendsDashBoard.csproj",
       "projectName": "BackEnd-FriendsDashBoard",
-      "projectPath": "C:\\Users\\HP\\OneDrive\\Desktop\\FriendsDashboard\\BackEnd\\BackEnd-FriendsDashBoard\\BackEnd-FriendsDashBoard.csproj",
+      "projectPath": "C:\\Users\\HP\\OneDrive\\Desktop\\NowExtras\\FriendsDashboard\\BackEnd\\BackEnd-FriendsDashBoard\\BackEnd-FriendsDashBoard.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\OneDrive\\Desktop\\FriendsDashboard\\BackEnd\\BackEnd-FriendsDashBoard\\obj\\",
+      "outputPath": "C:\\Users\\HP\\OneDrive\\Desktop\\NowExtras\\FriendsDashboard\\BackEnd\\BackEnd-FriendsDashBoard\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
